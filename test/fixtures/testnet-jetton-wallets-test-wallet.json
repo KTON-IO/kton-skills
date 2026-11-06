@@ -1,0 +1,71 @@
+{
+ "jetton_wallets": [
+  {
+   "address": "0:F24C203D46C48F1A7A8F8E9EF1879FC2E7EE6FE91429F8D3381A2958DA779981",
+   "balance": "2204867221",
+   "owner": "0:EFE568A002B1549A6690421B30B601B69906FAA7A390E92DC4E91CABA9A37ACD",
+   "jetton": "0:BCAC1811567DCF77C5CD0CFFD46C3D67F1268BBCE748D49AA824789EDEE92BAA",
+   "last_transaction_lt": "107912013000003",
+   "code_hash": "Er67DcjiArfib3IeJUfha7nrrsk09lfRnyLnbWK+yHg=",
+   "data_hash": "sdg8M2C6xCLSCcGSc5R7txcCLTt6Ko22gSxyouNaFo8="
+  }
+ ],
+ "address_book": {
+  "0:BCAC1811567DCF77C5CD0CFFD46C3D67F1268BBCE748D49AA824789EDEE92BAA": {
+   "user_friendly": "kQC8rBgRVn3Pd8XNDP_UbD1n8SaLvOdI1JqoJHie3ukrqjXs",
+   "domain": null,
+   "interfaces": [
+    "jetton_master"
+   ]
+  },
+  "0:EFE568A002B1549A6690421B30B601B69906FAA7A390E92DC4E91CABA9A37ACD": {
+   "user_friendly": "0QDv5WigArFUmmaQQhswtgG2mQb6p6OQ6S3E6RyrqaN6zUug",
+   "domain": null,
+   "interfaces": [
+    "wallet_v5r1"
+   ]
+  },
+  "0:F24C203D46C48F1A7A8F8E9EF1879FC2E7EE6FE91429F8D3381A2958DA779981": {
+   "user_friendly": "kQDyTCA9RsSPGnqPjp7xh5_C5-5v6RQp-NM4GilY2neZgfRV",
+   "domain": null,
+   "interfaces": [
+    "jetton_wallet"
+   ]
+  }
+ },
+ "metadata": {
+  "0:BCAC1811567DCF77C5CD0CFFD46C3D67F1268BBCE748D49AA824789EDEE92BAA": {
+   "is_indexed": true,
+   "token_info": [
+    {
+     "valid": true,
+     "type": "jetton_masters",
+     "name": "Tuna Token",
+     "symbol": "TUNA",
+     "description": "Tuna: your handy, fungible and alluring proto for TONs of assets. Ideal for steak.",
+     "image": "https://www.svgrepo.com/download/282230/tuna.svg",
+     "is_nsfw": false,
+     "is_scam": false,
+     "extra": {
+      "decimals": 9,
+      "uri": "https://gist.githubusercontent.com/EmelyanenkoK/cf435a18de72141c236218cbf3ce1102/raw/dc723a2ac22717ef0101e8a3d58b14e311d6c1c7/tuna.json?v=2"
+     }
+    }
+   ]
+  },
+  "0:F24C203D46C48F1A7A8F8E9EF1879FC2E7EE6FE91429F8D3381A2958DA779981": {
+   "is_indexed": true,
+   "token_info": [
+    {
+     "valid": true,
+     "type": "jetton_wallets",
+     "extra": {
+      "balance": "2204867221",
+      "jetton": "0:BCAC1811567DCF77C5CD0CFFD46C3D67F1268BBCE748D49AA824789EDEE92BAA",
+      "owner": "0:EFE568A002B1549A6690421B30B601B69906FAA7A390E92DC4E91CABA9A37ACD"
+     }
+    }
+   ]
+  }
+ }
+}

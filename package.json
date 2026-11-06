@@ -1,0 +1,28 @@
+{
+  "name": "kton-skills",
+  "version": "1.0.0",
+  "private": true,
+  "license": "MIT",
+  "type": "module",
+  "scripts": {
+    "build": "node scripts/build.mjs",
+    "typecheck": "tsc --noEmit",
+    "test": "vitest run"
+  },
+  "dependencies": {
+    "@ton/core": "0.62.0",
+    "@tonconnect/sdk": "^5.0.0",
+    "kton-sdk": "2.1.0",
+    "qrcode": "^1.5.4"
+  },
+  "devDependencies": {
+    "@ton/crypto": "^3.3.0",
+    "@ton/ton": "^15.4.0",
+    "@tonconnect/protocol": "^3.0.0",
+    "@types/node": "22.10.2",
+    "@types/qrcode": "^1.5.5",
+    "esbuild": "0.24.2",
+    "typescript": "5.7.2",
+    "vitest": "2.1.8"
+  }
+}

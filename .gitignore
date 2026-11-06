@@ -1,0 +1,7 @@
+node_modules/
+session.json
+wallet.json
+tonconnect.json
+quotes/
+sent/
+.DS_Store

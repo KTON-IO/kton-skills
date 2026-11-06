@@ -1,0 +1,8 @@
+{
+  "kton-sdk": "2.1.0 (npm; KTON-IO/KTON-SDK tag v2.1.0, 76b52e9)",
+  "@ton/core": "0.62.0",
+  "bundle": {
+    "file": "kton/scripts/kton.mjs",
+    "sha256": "2ea190d6733adb8960f80927389bbc73e0a188190153b618550adf8cedcbb5b3"
+  }
+}

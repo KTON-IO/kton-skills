@@ -1,0 +1,11 @@
+{
+  "name": "kton-skills",
+  "owner": { "name": "KTON", "email": "contact@kton.io" },
+  "plugins": [
+    {
+      "name": "kton",
+      "source": "./",
+      "description": "Stake Gram in KTON and unstake it, every transaction signed in your own wallet"
+    }
+  ]
+}

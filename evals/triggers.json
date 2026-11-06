@@ -1,0 +1,112 @@
+[
+ {
+  "expect": "trigger",
+  "lang": "en",
+  "prompt": "What's KTON's yield right now?"
+ },
+ {
+  "expect": "trigger",
+  "lang": "en",
+  "prompt": "I want to stake 50 Gram in KTON."
+ },
+ {
+  "expect": "trigger",
+  "lang": "en",
+  "prompt": "How do I unstake my KTON and get my Gram back?"
+ },
+ {
+  "expect": "trigger",
+  "lang": "zh-TW",
+  "prompt": "我想把 20 Gram 質押到 KTON"
+ },
+ {
+  "expect": "trigger",
+  "lang": "zh-TW",
+  "prompt": "KTON 解除質押要等多久？"
+ },
+ {
+  "expect": "trigger",
+  "lang": "zh-TW",
+  "prompt": "我想做 TON 的流動性質押，該怎麼開始？"
+ },
+ {
+  "expect": "trigger",
+  "lang": "zh-CN",
+  "prompt": "怎么把我的 KTON 提现成 Gram？"
+ },
+ {
+  "expect": "trigger",
+  "lang": "zh-CN",
+  "prompt": "KTON 现在的年化收益是多少？"
+ },
+ {
+  "expect": "trigger",
+  "lang": "zh-CN",
+  "prompt": "帮我把 100 个 TON 拿去质押赚收益"
+ },
+ {
+  "expect": "trigger",
+  "lang": "ru",
+  "prompt": "Хочу застейкать 10 Gram в KTON"
+ },
+ {
+  "expect": "trigger",
+  "lang": "ru",
+  "prompt": "Как вывести KTON обратно в Gram?"
+ },
+ {
+  "expect": "trigger",
+  "lang": "ru",
+  "prompt": "Какая сейчас доходность у KTON?"
+ },
+ {
+  "expect": "no-trigger",
+  "lang": "en",
+  "prompt": "How do I send 5 Toncoin to a friend's address?"
+ },
+ {
+  "expect": "no-trigger",
+  "lang": "en",
+  "prompt": "What is the price of Toncoin today?"
+ },
+ {
+  "expect": "no-trigger",
+  "lang": "en",
+  "prompt": "Explain how Ethereum staking with Lido works."
+ },
+ {
+  "expect": "no-trigger",
+  "lang": "en",
+  "prompt": "Write a Tolk smart contract for a simple counter on TON."
+ },
+ {
+  "expect": "no-trigger",
+  "lang": "en",
+  "prompt": "How do I run a TON validator node?"
+ },
+ {
+  "expect": "no-trigger",
+  "lang": "zh-TW",
+  "prompt": "幫我把 USDT 換成 TON"
+ },
+ {
+  "expect": "no-trigger",
+  "lang": "zh-TW",
+  "prompt": "Telegram 錢包怎麼備份助記詞？"
+ },
+ {
+  "expect": "no-trigger",
+  "lang": "zh-CN",
+  "prompt": "什么是 Jetton 标准？"
+ },
+ {
+  "expect": "no-trigger",
+  "lang": "ru",
+  "prompt": "Как создать кошелёк TON?"
+ },
+ {
+  "expect": "no-trigger",
+  "lang": "ru",
+  "prompt": "Сравни Tonstakers и Bemo для стейкинга TON"
+ }
+]

@@ -1,0 +1,8 @@
+{
+  "name": "kton",
+  "description": "Stake Gram in KTON and unstake it, every transaction signed in your own wallet",
+  "version": "1.0.0",
+  "author": { "name": "KTON", "email": "contact@kton.io" },
+  "homepage": "https://kton.io",
+  "skills": ["./kton/"]
+}

@@ -1,0 +1,82 @@
+{
+ "nft_items": [
+  {
+   "address": "0:BB2D48056D382F06E8185DA745FD96F52505DC4B9F742716404984847493829B",
+   "init": true,
+   "index": "0",
+   "collection_address": "0:89093ABDD41441B05F7375E939AA1A4A1E5A05B2C032F71346D1EAD454D654C7",
+   "owner_address": "0:EFE568A002B1549A6690421B30B601B69906FAA7A390E92DC4E91CABA9A37ACD",
+   "content": {
+    "description": "DO NOT SEND ON CONTRACTS: Converts burned Pool Jettons to TON when ready",
+    "image": "my-custom-stake-address.ton/icon.img",
+    "name": "Bill for 1.000000000 Pool Jetton in Withdrawal Payout#349",
+    "render_type": "hidden",
+    "symbol": "\u23f2\ufe0f",
+    "uri": "my-custom-stake-address.ton"
+   },
+   "last_transaction_lt": "107912013000012",
+   "code_hash": "5Gu2b/SJWX0ZV/EY3SCo1N98V3Un8n25eXEA9HwpGWs=",
+   "data_hash": "mT078izdYjKhsy74pU1qFOs/oHZ9ehPQ3D3J8Da3rEQ=",
+   "collection": {
+    "address": "0:89093ABDD41441B05F7375E939AA1A4A1E5A05B2C032F71346D1EAD454D654C7",
+    "owner_address": "0:F6CBD794A2D630ED5A6BAC3D1426F022803557C200822D6025F838DA6A60879E",
+    "last_transaction_lt": "107912013000010",
+    "next_item_index": "1",
+    "collection_content": {
+     "description": "Converts burned Pool Jettons to TON",
+     "image": "my-custom-stake-address.ton/icon.img",
+     "name": "Withdrawal Payout#349",
+     "render_type": "hidden",
+     "symbol": "\u23f2\ufe0f",
+     "uri": "my-custom-stake-address.ton"
+    },
+    "data_hash": "OiZimM5He6AVfwefGurOfFFKj4gq+LClzZLZB4pthXM=",
+    "code_hash": "x9KKjx9g3vODZU/9T7YArjP6D46rZToQVTBc4WPsWp8="
+   },
+   "on_sale": false,
+   "real_owner": "0:EFE568A002B1549A6690421B30B601B69906FAA7A390E92DC4E91CABA9A37ACD"
+  }
+ ],
+ "address_book": {
+  "0:89093ABDD41441B05F7375E939AA1A4A1E5A05B2C032F71346D1EAD454D654C7": {
+   "user_friendly": "kQCJCTq91BRBsF9zdek5qhpKHloFssAy9xNG0erUVNZUxw9J",
+   "domain": null,
+   "interfaces": [
+    "nft_collection"
+   ]
+  },
+  "0:BB2D48056D382F06E8185DA745FD96F52505DC4B9F742716404984847493829B": {
+   "user_friendly": "kQC7LUgFbTgvBugYXadF_Zb1JQXcS590JxZASYSEdJOCm1Y5",
+   "domain": null,
+   "interfaces": [
+    "nft_item"
+   ]
+  },
+  "0:EFE568A002B1549A6690421B30B601B69906FAA7A390E92DC4E91CABA9A37ACD": {
+   "user_friendly": "0QDv5WigArFUmmaQQhswtgG2mQb6p6OQ6S3E6RyrqaN6zUug",
+   "domain": null,
+   "interfaces": [
+    "wallet_v5r1"
+   ]
+  }
+ },
+ "metadata": {
+  "0:89093ABDD41441B05F7375E939AA1A4A1E5A05B2C032F71346D1EAD454D654C7": {
+   "is_indexed": false,
+   "token_info": [
+    {
+     "type": "nft_collections"
+    }
+   ]
+  },
+  "0:BB2D48056D382F06E8185DA745FD96F52505DC4B9F742716404984847493829B": {
+   "is_indexed": false,
+   "token_info": [
+    {
+     "type": "nft_items",
+     "nft_index": "0"
+    }
+   ]
+  }
+ }
+}

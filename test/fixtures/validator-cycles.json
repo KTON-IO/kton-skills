@@ -1,0 +1,49 @@
+{
+ "cycles": [
+  {
+   "election_id": 1790529288,
+   "cycle_start": 1790529288,
+   "cycle_end": 1790594824,
+   "total": 377,
+   "main": 100,
+   "total_weight": "1152921504606846765",
+   "total_stake": "650982436079989176",
+   "validators_elected_for": 65536,
+   "elections_start_before": 32768,
+   "elections_end_before": 8192,
+   "stake_held_for": 32768,
+   "max_validators": 400,
+   "max_main_validators": 100,
+   "min_validators": 75,
+   "min_stake": "718011198470000",
+   "max_stake": "3002351364353028",
+   "min_stake_limit": "300000000000000",
+   "max_stake_limit": "10000000000000000",
+   "min_total_stake": "75000000000000000",
+   "max_stake_factor": 294912
+  },
+  {
+   "election_id": 1790463752,
+   "cycle_start": 1790463752,
+   "cycle_end": 1790529288,
+   "total": 376,
+   "main": 100,
+   "total_weight": "1152921504606846797",
+   "total_stake": "647496876568206856",
+   "validators_elected_for": 65536,
+   "elections_start_before": 32768,
+   "elections_end_before": 8192,
+   "stake_held_for": 32768,
+   "max_validators": 400,
+   "max_main_validators": 100,
+   "min_validators": 75,
+   "min_stake": "754342198470000",
+   "max_stake": "3038498930251202",
+   "min_stake_limit": "300000000000000",
+   "max_stake_limit": "10000000000000000",
+   "min_total_stake": "75000000000000000",
+   "max_stake_factor": 294912
+  }
+ ],
+ "address_book": {}
+}

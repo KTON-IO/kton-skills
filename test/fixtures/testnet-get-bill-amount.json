@@ -1,0 +1,10 @@
+{
+ "gas_used": 1991,
+ "exit_code": 0,
+ "stack": [
+  {
+   "type": "num",
+   "value": "0x3b9aca00"
+  }
+ ]
+}

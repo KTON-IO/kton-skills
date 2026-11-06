@@ -1,0 +1,4 @@
+interface:
+  display_name: "KTON"
+  short_description: "Stake Gram in KTON and unstake it, signed in your own wallet"
+  default_prompt: "Use $kton to check the KTON pool and quote a stake or an unstake."
