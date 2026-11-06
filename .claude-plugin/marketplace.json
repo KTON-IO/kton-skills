@@ -1,6 +1,10 @@
 {
   "name": "kton-skills",
-  "owner": { "name": "KTON", "email": "contact@kton.io" },
+  "description": "KTON's agent skills: stake Gram in KTON on TON and unstake it, every transaction signed in your own wallet",
+  "owner": {
+    "name": "KTON",
+    "email": "contact@kton.io"
+  },
   "plugins": [
     {
       "name": "kton",
