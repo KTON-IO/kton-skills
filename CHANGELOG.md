@@ -1,5 +1,10 @@
 # Changelog
 
+## Unreleased
+
+- `pins.json` names the KTON-SDK commit tagged v2.1.0 after the SDK's history was rewritten on 2026-11-06 (`ca20a68`, formerly `76b52e9`; the source is the same).
+- `VERIFICATION.md` describes the wallet links as the script handles them: pinned, with only a same-host bridge path taken from the TON Connect list.
+
 ## [1.0.0] - 2026-11-06
 
 First public release.
